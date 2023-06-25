@@ -20,4 +20,4 @@ List's of experience types mentions in tables:
 ## Computer Science Basics
 | Technology | Level | Experience type |
 | --- | --- | --- |
-| Git | :star2: :star2: :star2: :star2: Full fluently | - All profesional work - All education - All open source project |
+| Git | :star2: :star2: :star2: :star2: Full fluently | <ul> <li> All profesional work </li>  <li>All education</li>  <li>All open source project</li> </ul> |
