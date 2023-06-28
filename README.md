@@ -30,7 +30,7 @@ List's of experience types mentions in tables:
 | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional work at BeOne](#professional-work)</li><li>[Education at PUT](#education)</li><li>[Education at SCI](#education)</li><li>[docker fun](https://github.com/mati2251/docker-fun)</li></ul> | 
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at SCI](#education)</li> <li>[wosp puszki](https://github.com/mati2251/wosp-puszki)</li> </ul> |
 | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[r and statistics basics](https://github.com/mati2251/r-and-statistics-basics)</li></ul>
-## Basics Technologies
+## Basics Technologie
 ## Frontend Technologies
 ## Backend Technologies
 ## Computer Science Basics
