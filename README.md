@@ -33,8 +33,8 @@ List's of experience types mentions in tables:
 ## Basics Technologie
 | Language | Level | Experience |
 | :---: | :---: | :---: |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | :star2: :star2: :star2: :star2 | <ul><li>[All profesional work](#professional-work)</li><li>[All education](#education)</li><li>[All open source projects](https://github.com/mati2251)</li></ul> |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | :star2: :star2: star2: :star2: | <ul><li>[All profesional work](#professional-work)</li><li>[All education](#education)</li><li>[All open source projects](https://github.com/mati2251)</li></ul> |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[All profesional work](#professional-work)</li><li>[All education](#education)</li><li>[All open source projects](https://github.com/mati2251)</li></ul> |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | :star2: :star2: :star2: :star2: | <ul><li>[All profesional work](#professional-work)</li><li>[All education](#education)</li><li>[All open source projects](https://github.com/mati2251)</li></ul> |
 ## Frontend Technologies
 ## Backend Technologies
 ## Computer Science Basics
