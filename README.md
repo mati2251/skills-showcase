@@ -31,6 +31,10 @@ List's of experience types mentions in tables:
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at SCI](#education)</li> <li>[wosp puszki](https://github.com/mati2251/wosp-puszki)</li> </ul> |
 | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[r and statistics basics](https://github.com/mati2251/r-and-statistics-basics)</li></ul>
 ## Basics Technologie
+| Language | Level | Experience |
+| :---: | :---: | :---: |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | :star2: :star2: :star2: :star2 | <ul><li>[All profesional work](#professional-work)</li><li>[All education](#education)</li><li>[All open source projects](https://github.com/mati2251)</li></ul> |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | :star2: :star2: star2: :star2: | <ul><li>[All profesional work](#professional-work)</li><li>[All education](#education)</li><li>[All open source projects](https://github.com/mati2251)</li></ul> |
 ## Frontend Technologies
 ## Backend Technologies
 ## Computer Science Basics
