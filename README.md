@@ -18,7 +18,7 @@ List's of experience types mentions in tables:
 - IT Specialist student at Technikum Informatyczne SCI in Szczecin (09.2017 - 06.2021)
 #### Open Source Projects
 ## Programming Languages
-| Language | Level | Experience |
+| Skill | Level | Experience |
 | :---: | :---: | :---: |
 | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Professional work at BeOne](#professional-work)</li><li>[Workout Customer](https://github.com/mati2251/WorkoutCustomer)</li><li>[directory to tree JSON](https://github.com/mati2251/directory-tree-to-JSON)</li><li>[multi mail sender](https://github.com/mati2251/multi-mail-sender)</li><li>[Simple Chat Server](https://github.com/mati2251/simple-chat-server)</li></ul> |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | :star2: :star2: :star2: :star2: |  <ul><li>[Professional work at BeOne](#professional-work)</li><li>[Education at PUT](#education)</li><li>[Education at SCI](#education)</li><li>[Mouse Simulator](https://github.com/mati2251/Mouse-Simulator)</li></ul> |
@@ -32,7 +32,7 @@ List's of experience types mentions in tables:
 | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[r and statistics basics](https://github.com/mati2251/r-and-statistics-basics)</li></ul> | 
 | Assembly | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li></ul>
 ## General Skills
-| Language | Level | Experience |
+| Skill | Level | Experience |
 | :---: | :---: | :---: |
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Whole open source projects](https://github.com/mati2251)</li></ul> |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Whole open source projects](https://github.com/mati2251)</li></ul> |
@@ -53,7 +53,7 @@ List's of experience types mentions in tables:
 | Graphical Programing | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[Chess Game Player 3D](https://github.com/mati2251/ChessGamePlayer3D)</li></ul>|
 | Database | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251)</li></ul> |
 ## Frontend Technologies
-| Language | Level | Experience |
+| Skill | Level | Experience |
 | :---: | :---: | :---: |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)| :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most Open source projects](https://github.com/mati2251)</li></ul> |
 | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)| :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most Open source projects](https://github.com/mati2251)</li></ul> |
@@ -70,4 +70,18 @@ List's of experience types mentions in tables:
 | ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[debate tool](https://github.com/mati2251/debate-tool)</li></ul> |
 | leaflet | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Professional Work at Apptimia](#professional-work)</li></ul> | 
 ## Backend Technologies
+| Skill | Level | Expirience |
+| :---: | :---: | :---: |
+| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at Apptimia](#professional-work)</li><li>[Education at SCI](#education)</li></ul> |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li></ul> |
+| ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Workout Customer](https://github.com/mati2251/WorkoutCustomer)</li><li>[Multi mail sender](https://github.com/mati2251/multi-mail-sender)</li><li>[simple chat server](https://github.com/mati2251/simple-chat-server)</li><li>[directory tree to JSON](https://github.com/mati2251/directory-tree-to-JSON)</li></ul> |
+| ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li><li>[docker fun](https://github.com/mati2251/docker-fun)</li></ul> |
+| MyBatis | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| Camunda | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| Alfresco | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
 ## Others Technologies
