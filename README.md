@@ -52,6 +52,10 @@ List's of experience types mentions in tables:
 | Compilers building | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[cpp class to h and cpp](https://github.com/mati2251/cpp-class-to-h-and-cpp)</li><li>[lex basics](https://github.com/mati2251/lex-basics)</li></ul> |
 | Graphical Programing | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[Chess Game Player 3D](https://github.com/mati2251/ChessGamePlayer3D)</li></ul>|
 | Database | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251)</li></ul> |
+| rest api | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251/) </ul> |
+| UML | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li></ul> |
+| JSON | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251/) </ul> |
+| GraphQL | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Marzenia Utkane z Gwiazd](https://github.com/mati2251/Marzenia-Utkane-z-Gwiazd)</li></ul> |
 ## Frontend Technologies
 | Skill | Level | Experience |
 | :---: | :---: | :---: |
