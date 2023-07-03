@@ -1,4 +1,4 @@
-# Skills
+# Skills Showcase
 ## Idea
 The best way to show your skills is to show them in practical application. This repository is a collection of technologies that I can use more or less efficiently, supported by practical examples 
 ## Legend
