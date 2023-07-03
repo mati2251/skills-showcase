@@ -7,7 +7,7 @@ baseurl: ""
 url: "" 
 github_username:  mati2251
 linkedin_username: mateusz-karłowski-8500a1184
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jemoji
