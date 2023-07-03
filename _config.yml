@@ -3,8 +3,8 @@ email: mateusz.karlowski@zoho.com
 markdown: GFM
 description: >-
    My skills showcase in one place with practical example using them.
-baseurl: "" 
-url: "" 
+baseurl: "https://mati2251.github.io/" 
+url: "skills-showcase" 
 github_username:  mati2251
 linkedin_username: mateusz-karłowski-8500a1184
 theme: minima
