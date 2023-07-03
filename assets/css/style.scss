@@ -10,3 +10,13 @@
 section {
     width: 740px;
 }
+
+@media (max-width: 1100px) {
+    .wrapper {
+        width: 860px;
+    }
+
+    section {
+        width: 600px;
+    }
+}
