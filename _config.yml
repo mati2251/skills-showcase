@@ -1,0 +1,11 @@
+title: Skills Showcase
+email: mateusz.karlowski@zoho.com
+description: >-
+   My skills showcase in one place with practical example using them.
+baseurl: "" 
+url: "" 
+github_username:  mati2251
+linkedin_username: mateusz-karłowski-8500a1184
+theme: minima
+plugins:
+  - jekyll-feed
