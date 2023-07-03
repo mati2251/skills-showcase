@@ -8,5 +8,6 @@ url: ""
 github_username:  mati2251
 linkedin_username: mateusz-karłowski-8500a1184
 # theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jemoji
