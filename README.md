@@ -34,17 +34,17 @@ List's of experience types mentions in tables:
 ## General Skills
 | Skill | Level | Experience |
 | :---: | :---: | :---: |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Whole open source projects](https://github.com/mati2251)</li></ul> |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Whole open source projects](https://github.com/mati2251)</li></ul> |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Every open source projects](https://github.com/mati2251)</li></ul> |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Every open source projects](https://github.com/mati2251)</li></ul> |
 | ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li></ul> |
 | Agile  | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional work at BeOne](#professional-work)</li></ul> |
-| Clean Code | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Whole open source projects](https://github.com/mati2251)</li></ul> |
+| Clean Code | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole education](#education)</li><li>[Every open source projects](https://github.com/mati2251)</li></ul> |
 | Objective Oriented Programming | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional Work](#professional-work)</li><li>[Whole education](#education)</li><li>[Most Open Source Projects](https://github.com/mati2251)</li></ul> |
 | Declarative Programming | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li></ul> |
 | Functional Programming | :star2: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li></ul> |
 | Operation Systems | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Whole Education](#education)</li></ul> |
 | System Programming and Paraller Programing | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[basic system programming](https://github.com/mati2251/basic-systems-programming)</li></ul> |
-| Algorithms and Data Structures | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Whole open source projects](https://github.com/mati2251)</li></ul> |
+| Algorithms and Data Structures | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Every open source projects](https://github.com/mati2251)</li></ul> |
 | Architecture of Computers | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Whole Education](#education)</li></ul> |
 | Electronic and digital technique| :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Whole Education](#education)</li></ul> |
 | Statistics | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Whole Education](#education)</li><li>[r and statistics basics](https://github.com/mati2251/r-and-statistics-basics)</li><li>[Top 100 bilboard analysis](https://github.com/mati2251/top-100-billboard-analysis)</li></ul> |
@@ -93,6 +93,6 @@ List's of experience types mentions in tables:
 | Skill | Level | Expirience |
 | :---: | :---: | :---: |
 | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Workout Customer](https://github.com/mati2251/WorkoutCustomer)</li></ul> |
-| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | Some Open Source Projets |
-| ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | Some Open Source Projets |
+| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: |  <ul><li>[Some Open Source Projets](https://github.com/mati2251)</li></ul> |
+| ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Some Open Source Projets](https://github.com/mati2251)</li></ul> |
 ## And more...
