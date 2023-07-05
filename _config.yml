@@ -8,7 +8,7 @@ baseurl: "skills-showcase"
 github_username:  mati2251
 linkedin_username: mateusz-karłowski-8500a1184
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /asstes/img/logo.png
+logo: https://raw.githubusercontent.com/mati2251/skills-showcase/main/assets/img/logo.png
 plugins:
 - jekyll-remote-theme
 plugins:
