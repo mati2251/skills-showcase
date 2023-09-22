@@ -75,7 +75,7 @@ Lists of experience types mentioned in tables:
 | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | :star2: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[pet share hackyeach 2021 frontend](https://github.com/akai-org/pet-share-hackyeah-2021-frontend)</li></ul> |
 | ![canvas](https://img.shields.io/badge/canvas-%232307ae?style=for-the-badge) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Value Axes](https://github.com/mati2251/Value-Axes)</li></ul> |
 | ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[debate tool](https://github.com/mati2251/debate-tool)</li></ul> |
-| ![leaflet](https://img.shields.io/badge/leaflet-#199900?style=for-the-badge&logo=leaflet) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Professional Work at Apptimia](#professional-work)</li></ul> | 
+| ![leaflet](https://img.shields.io/badge/leaflet-%23199900?style=for-the-badge&logo=leaflet) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Professional Work at Apptimia](#professional-work)</li></ul> | 
 ## Backend Technologies
 | Skill | Level | Expirience |
 | :---: | :---: | :---: |
