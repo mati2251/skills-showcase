@@ -1,1 +1,0 @@
-console.log('image-searchable.js loaded');
