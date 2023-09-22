@@ -80,8 +80,6 @@ Lists of experience types mentioned in tables:
 | Skill | Level | Expirience |
 | :---: | :---: | :---: |
 | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Professional Work at BeOne](#professional-work)</li><li>[fillist](https://github.com/akai-org/fillist)</li></ul> |
-| ![JUnit](https://img.shields.io/badge/junit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[fillist](https://github.com/akai-org/fillist)</li></ul> |
-| ![Mockito](https://img.shields.io/badge/mockito-%2379a73e?style=for-the-badge) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[fillist](https://github.com/akai-org/fillist)</li></ul> |
 | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | :star2: :star2: :star2: :star2: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
 | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at Apptimia](#professional-work)</li><li>[Education at SCI](#education)</li></ul> |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | :star2: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[fillist](https://github.com/akai-org/fillist)</li></ul> |
@@ -94,6 +92,8 @@ Lists of experience types mentioned in tables:
 | ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
 | ![Camunda](https://img.shields.io/badge/Camunda-%23301f49?style=for-the-badge) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
 | ![Alfresco](https://img.shields.io/badge/Alfresco-%23b4e76d?style=for-the-badge) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional Work at BeOne](#professional-work)</li></ul> |
+| ![JUnit](https://img.shields.io/badge/junit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[fillist](https://github.com/akai-org/fillist)</li></ul> |
+| ![Mockito](https://img.shields.io/badge/mockito-%2379a73e?style=for-the-badge) | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[fillist](https://github.com/akai-org/fillist)</li></ul> |
 | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[fillist](https://github.com/akai-org/fillist)</li><li>[travelling salesman problem](https://github.com/mati2251/travelling-salesman-problem)</li><li>[skills-showcase](https://github.com/mati2251/skills-showcase)</li></ul>
 ## Others Technologies
 | Skill | Level | Expirience |
