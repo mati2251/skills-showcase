@@ -3,12 +3,12 @@
 The best way to show your skills is to show them in practical application. This repository is a collection of technologies that I can use more or less efficiently, supported by practical examples 
 ## Legend
 ### Levels of knowledge
-- :star2: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star: Know the ideaa and some basics - I know the idea of the issue and I can use it in a simple way. But I need to learn more to use it efficiently.
+- :star2: :eight_pointed_black_star: :eight_pointed_black_star: :eight_pointed_black_star: Know the idea and some basics - I know the idea of the issue and I can use it in a simple way. But I need to learn more to use it efficiently.
 - :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: Good basics - I know the issue and I can use it in a simple way.
 - :star2: :star2: :star2: :eight_pointed_black_star: Excellent knowledge - I know the issue and I can use it efficiently but i need practice.
 - :star2: :star2: :star2: :star2: Full fluently - I know the issue and I can use it efficiently.
 ### Experience types
-List's of experience types mentions in tables:
+Lists of experience types mentioned in tables:
 #### Professional work
 - Junior Fullstack Developer at BeOne (12.2021 - 12.2022)
 - Intern Frontend Developer at apptimia (07.2021 - 09.2021)
@@ -43,7 +43,7 @@ List's of experience types mentions in tables:
 | Declarative Programming | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li></ul> |
 | Functional Programming | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li></ul> |
 | Reactive Programming | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Professional work at BeOne](#professional-work)</li><li>[Professional work at Apptimia](#professional-work)</li><li>[fillist](https://github.com/akai-org/fillist)</li></ul> |
-| Operation Systems | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Whole Education](#education)</li></ul> |
+| Operating Systems | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Whole Education](#education)</li></ul> |
 | System Programming and Paraller Programing | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[basic system programming](https://github.com/mati2251/basic-systems-programming)</li></ul> |
 | Algorithms and Data Structures | :star2: :star2: :star2: :eight_pointed_black_star: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[All open source projects](https://github.com/mati2251)</li></ul> |
 | Architecture of Computers | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Whole Education](#education)</li></ul> |
@@ -53,7 +53,7 @@ List's of experience types mentions in tables:
 | Compilers building | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[cpp class to h and cpp](https://github.com/mati2251/cpp-class-to-h-and-cpp)</li><li>[lex basics](https://github.com/mati2251/lex-basics)</li></ul> |
 | Graphical Programing | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Education at PUT](#education)</li><li>[Chess Game Player 3D](https://github.com/mati2251/ChessGamePlayer3D)</li></ul>|
 | Database | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251)</li></ul> |
-| rest api | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251/) </ul> |
+| REST API | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251/) </ul> |
 | UML | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li></ul> |
 | JSON | :star2: :star2: :star2: :star2: | <ul><li>[Whole Professional work](#professional-work)</li><li>[Whole Education](#education)</li><li>[Most open source projects](https://github.com/mati2251/) </ul> |
 | GraphQL | :star2: :star2: :eight_pointed_black_star: :eight_pointed_black_star: | <ul><li>[Marzenia Utkane z Gwiazd](https://github.com/mati2251/Marzenia-Utkane-z-Gwiazd)</li></ul> |
